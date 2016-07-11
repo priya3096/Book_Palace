@@ -46,7 +46,7 @@
 }
 </style>
 </head>
-<body>
+<body background="resources/images/images.jpg">
 <h3>Available Genres..</h3>
 	<if test="${!empty genreList}">
 		<table class="tg">

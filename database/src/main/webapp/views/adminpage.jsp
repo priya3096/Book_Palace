@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>AdminPage</title>
 </head>
-<body>
+<body background="resources/images/images.jpg">
 <h1>Welcome!!</h1>
 <a href="genres">genres</a>
 

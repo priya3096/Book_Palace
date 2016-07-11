@@ -32,7 +32,7 @@
 					<li><div style="color: red">${message}</div><br><form action="isValidUser" method="post">
 							<input type="text" name="name" placeholder="UserId">
 							<input type="password" name="password" placeholder="Password">
-							<button class="btn btn-info">LOG IN</button></form></li>
+							<button class="btn btn-primary">LOG IN</button></form></li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
